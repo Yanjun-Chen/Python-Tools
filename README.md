@@ -1,11 +1,15 @@
 # Python-Tools
 
 
-Model speed measurement (Pytorch) 
+1. Model speed measurement (Pytorch) 
 
-Onnx generator (Pytorch)
+2. Onnx generator (Pytorch)
 
-Trace Malloc
+3. Trace Malloc
+
+
+
+
 
 
 
